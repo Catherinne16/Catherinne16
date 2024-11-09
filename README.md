@@ -27,10 +27,13 @@ Me interesa seguir creciendo como Analista QA Junior!✨
 ✨<span style="color:pink;">Orientación a la Calidad</span>
 
 
-# 🌈 Mis Proyectos Destacados
+# 🌈 Mis Proyectos mas Destacados
+
+- **[Chelenko Lodge - Sistema de Reservas 🏡✨](https://github.com/Catherinne16/ProyectoChelenkoLodge/)**: Un sistema de reservas en línea para un lodge turístico, donde los usuarios pueden gestionar la reserva de cabañas y tinajas, calcular el costo por noches de estancia, y realizar pagos. Desarrollado con React ⚛️ y Vite ⚡, este proyecto incluye funcionalidades como un carrito de compras, gestión de reservas y un proceso de pago simplificado.
 
 - **[Conversor de Moneda CLP a Internacional](https://catherinne16.github.io/APIJS/)**: Este proyecto es una aplicación web que permite convertir la moneda chilena (CLP) a diversas monedas internacionales. Utiliza una API de tasas de cambio para que los usuarios ingresen un monto en CLP y seleccionen la moneda de destino, mostrando el resultado de la conversión de manera sencilla y rápida.
-- **[Mike Little Model ✨️](https://catherinne16.github.io/GalleryMike/)**: A través de este proyecto, invito a los visitantes a explorar mi trabajo y estilo.
+  
+- **[Mike Little Model ✨️](https://catherinne16.github.io/GalleryMike/)**: A través de este proyecto, invito a los visitantes a explorar mi trabajo y estilo en mi tiempo libre.
 
   
 #📫 Contáctame
