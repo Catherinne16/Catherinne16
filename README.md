@@ -1,8 +1,11 @@
 ![Título](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fcf4b0d0-a403-4dda-aec1-6a1712fe694b/db06fiv-154f3135-cb23-4f6c-a083-93e3865c7c78.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZjZjRiMGQwLWE0MDMtNGRkYS1hZWMxLTZhMTcxMmZlNjk0YlwvZGIwNmZpdi0xNTRmMzEzNS1jYjIzLTRmNmMtYTA4My05M2UzODY1YzdjNzguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Kvqty51Ojdx6otpNl7q71eU0p9QKlGbgkyKHkHvQj34)
 👩‍💻 ¡Hola! Soy Jennifer!✨ 
 
-Actualmente busco nuevas oportunidades en QA, con experiencia como Analista QA Junior y en Frontend React.
-Me interesa seguir creciendo como Analista QA Junior!✨
+QA Tester y Desarrolladora Front-End Jr. Apasionada por la calidad y optimización de
+procesos. Destaco por mi proactividad, creatividad y atención al detalle.
+Tengo habilidades comprobadas en testing automatizado, desarrollo front-end con React, y
+trabajo colaborativo para la entrega de proyectos eficientes y de alta calidad.
+✨
 
 ✨Me apasiona crear aplicaciones de calidad y que brillen con mi creatividad.✨
 
