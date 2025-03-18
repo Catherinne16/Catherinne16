@@ -1,4 +1,4 @@
-![Tech Banner](https://your-tech-banner-link.com)
+![Título](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fcf4b0d0-a403-4dda-aec1-6a1712fe694b/db06fiv-154f3135-cb23-4f6c-a083-93e3865c7c78.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZjZjRiMGQwLWE0MDMtNGRkYS1hZWMxLTZhMTcxMmZlNjk0YlwvZGIwNmZpdi0xNTRmMzEzNS1jYjIzLTRmNmMtYTA4My05M2UzODY1YzdjNzguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Kvqty51Ojdx6otpNl7q71eU0p9QKlGbgkyKHkHvQj34)
 
 # 👩‍💻 Jennifer Díaz | QA Tester & Frontend Developer Jr.  
 🚀 Apasionada por la calidad y el desarrollo de software con enfoque en optimización y experiencia de usuario. Me destaco por mi **proactividad, creatividad y atención al detalle**.
@@ -41,16 +41,6 @@
 ### [💱 Conversor de Moneda CLP](https://catherinne16.github.io/APIJS/)  
 💡 *Conversor de moneda en tiempo real usando una API de tasas de cambio.*
 - **Tecnologías:** JavaScript, Fetch API, HTML, CSS
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Catherinne16&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Catherinne16&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Catherinne16&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Contáctame
 
